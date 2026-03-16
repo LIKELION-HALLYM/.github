@@ -33,7 +33,7 @@
 
 # 🔗 함께 쓰는 규칙과 자료
 
-- **커밋 메시지 규칙** · 아기사자들의 원활한 협업을 위한 [Commit Message 가이드](https://github.com/LIKELION-HALLYM/.github)를 참고해 주세요.
+- **커밋 메시지 규칙** · 아기사자들의 원활한 협업을 위한 [Commit Message 가이드](https://github.com/LIKELION-HALLYM/.github/blob/main/COMMIT_MESSAGE.md)를 참고해 주세요.
 - **리포지토리** · 본 조직([LIKELION-HALLYM](https://github.com/LIKELION-HALLYM))에서 2026 1학기 프로젝트와 자료를 공유합니다.
 
 ---
