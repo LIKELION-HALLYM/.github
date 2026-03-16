@@ -33,6 +33,7 @@
 
 # 🔗 함께 쓰는 규칙과 자료
 
+- **조직 프로필(간판)** · 조직 대문에 적용된 README는 [LIKELION-HALLYM 프로필](https://github.com/LIKELION-HALLYM)에서 보실 수 있으며, 소스는 [.github/profile](https://github.com/LIKELION-HALLYM/.github/tree/main/profile)에서 관리됩니다.
 - **커밋 메시지 규칙** · 아기사자들의 원활한 협업을 위한 [Commit Message 가이드](https://github.com/LIKELION-HALLYM/.github/blob/main/COMMIT_MESSAGE.md)를 참고해 주세요.
 - **리포지토리** · 본 조직([LIKELION-HALLYM](https://github.com/LIKELION-HALLYM))에서 2026 1학기 프로젝트와 자료를 공유합니다.
 
